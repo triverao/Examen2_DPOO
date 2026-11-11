@@ -1,9 +1,7 @@
 package presentacion;
-
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-
 import logica.*;
 
 public class InterfazParcial extends JFrame implements ActionListener
